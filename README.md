@@ -4,14 +4,16 @@ Este projeto foi criado como parte do processo seletivo para PariPassu.
 
 ## Passo a passo
 
-Este projeto está disponível para vizualização em https://jjj-senhas-front.herokuapp.com, não é necessário baixá-lo para executar;
+Este projeto está disponível para vizualização em https://jjj-senhas-front.herokuapp.com, não é necessário baixá-lo para executar.
+__Aguarde 30 segundos caso a página não carregar, o Heroku pode estar inicializando o aplicativo.__
 
 ### `Executar manualmente`
 
 Se você quiser rodar o app na sua máquina manualmente, você deve primeiro baixar o código e extrair pra uma pasta.
 Ou, se preferir, importe o código pela linha de comando Git com __git clone https://github.com/JoeyJohnJo/senhas-back.git__.
 Após ter todos os arquivos em uma pasta, basta rodar através da sua IDE de escolha ou com __mvn install__. É necessário ter 
-o Maven para baixar todas as dependências do projeto.
+o Maven para baixar todas as dependências do projeto. Você também precisará do código daqui __https://github.com/JoeyJohnJo/senhas-back__
+para rodar o backend.
 
 ### `Funcionalidade`
 Este projeto expõe REST endpoints para gerar novas senhas e servi-las quando for solicitado.
