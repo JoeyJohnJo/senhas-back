@@ -1,6 +1,5 @@
 # senhas-back
-Backend do Gerenciador de Senhas para o processo seletivo PariPassu
-Este projeto foi criado como parte do processo seletivo para PariPassu.
+Backend do Gerenciador de Senhas.
 
 ## Passo a passo
 
